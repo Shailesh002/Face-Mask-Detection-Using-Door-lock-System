@@ -1,1 +1,4 @@
 # Face-Mask-Detection-Using-Door-lock-System
+This project is based on a Raspberry PI-based automatic door opening and closing system.
+
+Because the potential for applications are endless, computer vision technology has been a hot topic of research for decades. Text recognition, depth perception, visual odometry, object identification and recognition, position estimation, and human face detection and recognition are just a few of the uses of computer vision and image processing. Object detection and recognition in the field of view of a camera is a critical task in the automation, robotics, and manufacturing industries. Face detection is the use of image processing techniques to assess whether or not an image contains a human face. It's similar to object detection, but the human traits are more distinct and constant.
